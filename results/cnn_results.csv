@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+CNN,0.6923076923,0.6313932981,0.5191820192,0.5074926254
